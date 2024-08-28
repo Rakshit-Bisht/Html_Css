@@ -1,0 +1,45 @@
+
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}   
+
+.container{
+    display: inline-block;
+    margin-left: 10px;
+    width: 200px;
+    box-shadow: 0 0 5px rgba(0 ,0 ,0 ,0.3);
+}
+
+.image{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;                
+}
+
+.User-name{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: larger;
+    margin-top: 5px;
+    margin-left: 8px;
+}
+.User-friends{
+    margin-top: 2px;
+    margin-bottom: 0px;
+    color: rgb(100, 100, 100);
+    margin-top: 5px;
+    margin-left: 8px;
+}
+
+.button{
+    
+    background-color: rgb(24, 119, 242);
+    padding: 10px 15px 10px 15px;
+    margin-top: 9px;
+    margin-bottom: 8px;
+    margin-left: 8px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}

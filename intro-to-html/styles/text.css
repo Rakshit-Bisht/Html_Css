@@ -1,0 +1,46 @@
+p{
+    font-family: roboto;
+}
+
+.youtube-text{
+    
+    font-weight: bold;
+    font-size: 18px;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.about-video{
+    color: #606060;
+    margin-top: 0;
+}
+
+.channel-name{
+    color: #606060;
+    
+}
+
+.description{
+    width: 300px;
+    color: #606060;
+    line-height: 22px;
+}
+
+.apple,a{
+    margin-top: 80px;
+    text-align: center;
+    font-size: 15px;
+    background-color: #dc3545;
+    color: white;
+    padding: 15px 9px 15px 9px;
+    
+}
+
+.span_element{
+    cursor: pointer;
+}
+
+.span_element:hover{
+    text-decoration: underline;
+}
